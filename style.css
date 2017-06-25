@@ -1,1 +1,28 @@
-
+body {
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+  background: #55ACEE;
+  color: #ffffff;
+  line-height: 70px;
+  text-align: center;
+}
+h1 {
+  font-size: 40px;
+  margin: 50px 0;
+}
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+button {
+  background: #55ACEE;
+  font-size: 20px;
+  padding: 12px;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+}
+button:hover {
+  opacity: .7;
+}
