@@ -1,8 +1,7 @@
 body {
-  margin: 0;
   font-family: 'Raleway', sans-serif;
-  background: #55ACEE;
-  color: #ffffff;
+  background: #16a085;
+  color: #f1c40f;
   line-height: 70px;
   text-align: center;
 }
@@ -10,19 +9,21 @@ h1 {
   font-size: 40px;
   margin: 50px 0;
 }
-a {
-  color: #ffffff;
-  text-decoration: none;
-}
 button {
-  background: #55ACEE;
+  background: #16a085;
   font-size: 20px;
   padding: 12px;
-  color: #ffffff;
+  color: #f1c40f;
   font-family: 'Raleway', sans-serif;
-  border: 1px solid #ffffff;
+  border: 1px solid #f1c40f;
   border-radius: 5px;
 }
 button:hover {
   opacity: .7;
+}
+h2 {
+  text-decoration: underline;
+}
+li {
+  list-style-type: none;
 }
